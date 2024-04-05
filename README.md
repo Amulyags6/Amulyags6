@@ -1,4 +1,4 @@
-👋 Hi, I’m @Amulyags6
+👋 Hi, I’m Amulya G D
 
 👀 I’m interested in full stack development, particularly in the MERN stack, and Java projects.
 
